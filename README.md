@@ -1,47 +1,66 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# Ken Hyde — Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
-
-This repository contains starter code for Portfolio website created using NextJs. <br />
-
-For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Yw7yWHigGKI <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
-
----
-✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai)
+Welcome to my personal portfolio! This site showcases my work as a full-stack developer with a focus on blockchain, SaaS products, and scalable web applications.
 
 ---
 
-### Images of The Portfolio Website:
+## About Me
 
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
+I'm a full-stack developer passionate about building decentralized applications and robust, user-centric solutions. I specialize in combining traditional web development with blockchain technology to create products that solve real-world problems.
 
+- Experienced with **frontend and backend development**, blockchain smart contracts, and cloud infrastructure.
+- Strong focus on **clean, maintainable code** and developer-friendly solutions.
+- Always exploring new technologies that push the boundaries of web and blockchain development.
 
-### Resources Used in This Project
+---
 
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
-- Fonts from https://fonts.google.com/ <br />
-- Icons from https://iconify.design/ <br />
-- LightBulb Svg from https://lukaszadam.com/illustrations <br />
+## Projects
 
-### External Libraries used in this project:
+### **AuditOps**
+An all-in-one auditing dashboard designed to streamline audit workflows. It generates structured reports (Markdown/PDF) from audit findings and integrates GitHub, Notion, and other tools into a single workflow.
 
-- [framer-motion](https://www.framer.com/motion/) <br />
-- [Tailwind css](https://tailwindcss.com/) <br />
+### **BlockBlind**
+A prototype interface allowing users to interact with a smart contract pool through a community-managed wallet. Built with usability and simplicity in mind.
 
+### **DataBlock**
+An early-stage Rust-based blockchain indexer aimed at giving developers fast, structured, and queryable access to on-chain data across multiple chains.
 
+---
+
+## Skills & Technologies
+
+### **Core Skills**
+- React & Next.js  
+- TypeScript
+- Javascript
+- Rust
+- Node.js  
+- Solidity  
+- Ethers.js  
+- PostgreSQL  
+- MongoDB   
+- REST APIs
+- Github
+
+### **Core Tech Stack**
+| Technology | Category |
+|------------|----------|
+| React      | Frontend |
+| Node.js    | Backend  |
+| Solidity   | Blockchain |
+| MongoDB    | Database |
+| Javascript | Frontend/Backend |
+
+---
+
+## Contact
+
+Feel free to get in touch if you'd like to collaborate, discuss blockchain development, or explore opportunities:
+
+- **Email:** hydevosse@gmail.com  
+- **LinkedIn:** [linkedin.com/in/kenhyde](https://www.linkedin.com/in/ken-hyde-901574269/)  
+- **GitHub:** [github.com/kenhyde](https://github.com/Kehyde)  
+
+---
+
+This portfolio is continuously evolving as I work on new projects and explore emerging technologies in full-stack and blockchain development.
