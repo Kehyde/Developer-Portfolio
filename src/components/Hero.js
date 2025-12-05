@@ -34,7 +34,15 @@ export default function Hero({ onNavigate }) {
         >
           LinkedIn
         </button>
-        <button className="px-8 py-4 bg-[#4b2e2a] text-white font-semibold rounded-md shadow-lg hover:bg-[#9b785f] hover:scale-105 transform transition duration-300">
+        <button
+          onClick={() =>
+            window.open(
+              "https://www.x.com/kenn0x1z?s=11&t=KiEuhKSHba275blu-WwoWA",
+              "_blank"
+            )
+          }
+          className="px-8 py-4 bg-[#4b2e2a] text-white font-semibold rounded-md shadow-lg hover:bg-[#9b785f] hover:scale-105 transform transition duration-300"
+        >
           Twitter
         </button>
       </div>
