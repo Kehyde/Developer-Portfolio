@@ -16,7 +16,7 @@ export default function Hero({ onNavigate }) {
       >
         Learn More
       </button>
-      <div className="space-x-4 mt-10">
+      <div className="flex flex-wrap gap-3 mt-10 justify-center">
         <button
           onClick={() => window.open("https://github.com/Kehyde", "_blank")}
           className="px-8 py-4 bg-[#4b2e2a] text-white font-semibold rounded-md shadow-lg hover:bg-[#9b785f] hover:scale-105 transform transition duration-300"
